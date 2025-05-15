@@ -1,0 +1,42 @@
+2025-05-15 13:45:41 | ALERT (EMAIL NOT SENT): https://google.com   is DOWN!
+2025-05-15 13:45:42 | ALERT (EMAIL NOT SENT): https://github.com   is DOWN!
+2025-05-15 13:45:49 | ALERT (EMAIL NOT SENT): https://google.com   is DOWN!
+2025-05-15 13:45:50 | ALERT (EMAIL NOT SENT): https://github.com   is DOWN!
+2025-05-15 13:46:50 | ALERT (EMAIL NOT SENT): https://www.google.com is DOWN!
+2025-05-15 13:46:51 | ALERT (EMAIL NOT SENT): http://ohiee.com is DOWN!
+2025-05-15 13:46:52 | ALERT (EMAIL NOT SENT): https://status.github.com is DOWN!
+2025-05-15 13:49:37 | ALERT (EMAIL NOT SENT): https://www.google.com is SLOW (1014ms)!
+2025-05-15 13:49:38 | ALERT (EMAIL NOT SENT): http://ohiee.com is DOWN!
+2025-05-15 13:49:39 | ALERT (EMAIL NOT SENT): http://ohiee.com is SLOW (614ms)!
+2025-05-15 13:49:42 | ALERT (EMAIL NOT SENT): https://status.github.com is DOWN!
+2025-05-15 13:49:43 | ALERT (EMAIL NOT SENT): https://status.github.com is SLOW (1591ms)!
+2025-05-15 13:52:47 | ALERT (EMAIL NOT SENT): https://www.google.com is SLOW (663ms)!
+2025-05-15 13:52:51 | ALERT (EMAIL NOT SENT): https://status.github.com is DOWN!
+2025-05-15 13:52:51 | ALERT (EMAIL NOT SENT): https://status.github.com is SLOW (1542ms)!
+2025-05-15 13:56:45 | ALERT (EMAIL NOT SENT): https://www.google.com is SLOW (655ms)!
+2025-05-15 13:56:49 | ALERT (EMAIL NOT SENT): https://status.github.com is DOWN!
+2025-05-15 13:56:49 | ALERT (EMAIL NOT SENT): https://status.github.com is SLOW (1318ms)!
+2025-05-15 13:58:24 | ALERT (EMAIL NOT SENT): https://www.google.com is SLOW (2095ms)!
+2025-05-15 14:00:07 | ALERT (EMAIL NOT SENT): https://www.google.com is SLOW (640ms)!
+2025-05-15 14:59:39 | ALERT (EMAIL NOT SENT): https://www.google.com is SLOW (726ms)!
+2025-05-15 15:02:29 | ALERT (EMAIL NOT SENT): https://www.google.com is SLOW (734ms)!
+2025-05-15 15:04:46 | ALERT (EMAIL NOT SENT): https://www.google.com is SLOW (676ms)!
+2025-05-15 15:05:11 | ALERT (EMAIL NOT SENT): https://www.google.com is SLOW (675ms)!
+2025-05-15 15:07:20 | ALERT (EMAIL NOT SENT): https://www.google.com is SLOW (730ms)!
+2025-05-15 15:16:50 | ALERT (EMAIL NOT SENT): Test alert from Talha's script
+2025-05-15 15:17:34 | ALERT (EMAIL NOT SENT): Test alert from Talha's script
+2025-05-15 15:33:47 | ALERT (EMAIL NOT SENT): Test alert from Talha's script
+2025-05-15 15:34:05 | ALERT (EMAIL NOT SENT): https://www.google.com is SLOW (730ms)!
+2025-05-15 15:35:03 | ALERT (EMAIL NOT SENT): https://www.google.com is SLOW (814ms)!
+2025-05-15 15:36:37 | ALERT (EMAIL NOT SENT): https://www.google.com is SLOW (729ms)!
+2025-05-15 15:37:09 | ALERT (EMAIL NOT SENT): https://www.google.com is SLOW (695ms)!
+2025-05-15 15:39:11 | ALERT (EMAIL NOT SENT): https://ohiee.com is SLOW (1102ms)!
+2025-05-15 15:39:14 | ALERT (EMAIL NOT SENT): https://www.google.com is SLOW (660ms)!
+2025-05-15 15:52:37 | ALERT (EMAIL NOT SENT): https://ohiee.com is SLOW (1051ms)!
+2025-05-15 15:52:40 | ALERT (EMAIL NOT SENT): https://www.google.com is SLOW (654ms)!
+2025-05-15 15:53:02 | ALERT (EMAIL NOT SENT): https://ohiee.com is SLOW (345ms)!
+2025-05-15 15:53:05 | ALERT (EMAIL NOT SENT): https://www.google.com is SLOW (703ms)!
+2025-05-15 15:53:31 | ALERT (EMAIL NOT SENT): https://ohiee.com is SLOW (392ms)!
+2025-05-15 15:53:33 | ALERT (EMAIL NOT SENT): https://www.google.com is SLOW (677ms)!
+2025-05-15 15:54:05 | ALERT (EMAIL NOT SENT): https://ohiee.com is SLOW (369ms)!
+2025-05-15 15:54:09 | ALERT (EMAIL NOT SENT): https://amarponno.com is SLOW (1766ms)!
