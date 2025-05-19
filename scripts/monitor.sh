@@ -9,6 +9,7 @@ LOG_RESPONSE_TIME="$BASE_DIR/logs/response_times.log"
 ALERT_SCRIPT="$BASE_DIR/scripts/send_alert.sh"
 LOG_SSL="$BASE_DIR/logs/ssl_checks.log"
 
+
 # Read alert threshold from config
 THRESHOLD=$(grep ALERT_THRESHOLD_MS "$ALERT_CONFIG" | cut -d= -f2)
 
@@ -30,7 +31,8 @@ while read -r website; do
     echo "$timestamp | $website | Response: ${response_time}ms" >> "$LOG_RESPONSE_TIME"
 
     # Check website status
-    if curl -s -I "$website" | head -n 1 | grep -q "200"; then
+    if 
+     -s -I "$website" | head -n 1 | grep -q "200"; then
         echo "$timestamp | $website | UP" >> "$LOG_UPTIME"
     else
         echo "$timestamp | $website | DOWN" >> "$LOG_UPTIME"
